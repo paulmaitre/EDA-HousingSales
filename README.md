@@ -2,4 +2,4 @@
 
 Notebook used as a personal guide to EDA with Python
 
-**🚨To run with Google Colab**
+**🚨Run with Google Colab**
